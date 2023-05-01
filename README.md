@@ -13,7 +13,7 @@
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/3.jpg)
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/4.jpg)
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/5.jpg)
-<img src="https://img-blog.csdn.net/20161028230559575" width="150" height="200" alt="图片描述文字"/>
+
 
 ## 功能
 
