@@ -14,6 +14,11 @@
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/4.jpg)
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/5.jpg)
 
+<img width=50% height=50% src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg"/>
+<img width=50% height=50% src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg"/>
+<img width=50% height=50% src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg"/>
+<img width=50% height=50% src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg"/>
+<img width=50% height=50% src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg"/>
 
 ## 功能
 
