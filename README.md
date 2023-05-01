@@ -36,5 +36,6 @@
 ## 注意
 
 - 请点击  [notion](https://liuehe.notion.site/79d73daae145425e9c513dee39b10d84) ,选择  `1.书法体识别`  下载数据。
+- 由于序列化数据超过100MB，文件未上传，请运`1_Xy.py`得到，或者前往[notion](https://liuehe.notion.site/79d73daae145425e9c513dee39b10d84)下载。
 - 请按照配置文件 `0_setting.yaml` 中的设置生成相关的文件夹，和放置文件位置。
 - 请确保已安装所有依赖库。
