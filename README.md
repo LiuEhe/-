@@ -8,7 +8,7 @@
 - `util.py`：包含一些辅助功能，例如图像预处理、保存和加载文件等。
 
 ## 项目运行效果截图
-![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg)
+![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg){ width=200px height=250px}
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/2.jpg)
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/3.jpg)
 ![img](https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/4.jpg)
