@@ -8,7 +8,7 @@
 - `util.py`：包含一些辅助功能，例如图像预处理、保存和加载文件等。
 
 ## 项目运行效果截图
-<img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg" width="100" height="125"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/2.jpg" width="100" height="125"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/3.jpg" width="100" height="125"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/4.jpg" width="100" height="125"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/5.jpg" width="100" height="125">
+<img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/1.jpg" width="150" height="187.5"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/2.jpg" width="150" height="187.5"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/3.jpg" width="150" height="187.5"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/4.jpg" width="150" height="187.5"><img src="https://github.com/LiuEhe/Calligraphy-Style-Recognition/blob/main/%E6%95%88%E6%9E%9C%E5%9B%BE/5.jpg" width="150" height="187.5">
 
 
 ## 功能
