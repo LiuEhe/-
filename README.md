@@ -35,6 +35,6 @@
 
 ## 注意
 
-- 在 wolai 作业页面下载书法字体文件 `shufa.zip`
+- 请点击  [notion](https://liuehe.notion.site/79d73daae145425e9c513dee39b10d84) ,选择  1.书法体识别  下载数据。
 - 请按照配置文件 `0_setting.yaml` 中的设置生成相关的文件夹，和放置文件位置。
 - 请确保已安装所有依赖库。
