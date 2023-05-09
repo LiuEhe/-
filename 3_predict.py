@@ -64,7 +64,7 @@ class ImageClassifierApp:
         self.image_label.image = image_tk
 
         # 更新预测标签
-        self.prediction_label.config(text=f'预测类别: {char_styles[predicted_class[0]-1]}')
+        self.prediction_label.config(text=f'预测类别: {char_styles[predicted_class[0]]}')
         #self.prediction_label.config(text=f'预测类别: {predicted_class.predict(img_df)}')
 
 
